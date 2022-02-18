@@ -1,0 +1,12 @@
+/* All Page */
+nav {
+    text-align: right;
+}
+.top-nav li {
+    display: inline;
+}
+
+/* Coantact Page */
+#address-section {
+    text-align: center;
+}
