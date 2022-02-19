@@ -6,6 +6,15 @@ nav {
     display: inline;
 }
 
+footer{
+    background: #000;
+    color: #fff;
+    padding: 20px;
+}
+footer a {
+    color: #fff;
+}
+
 /* Coantact Page */
 #address-section {
     text-align: center;
