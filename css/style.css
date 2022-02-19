@@ -2,7 +2,7 @@
 nav {
     text-align: right;
 }
-.top-nav li {
+.top-nav ul li {
     display: inline;
 }
 
